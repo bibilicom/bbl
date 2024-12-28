@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    font-size: 18px;
+    text-align: center;
+}
+
+.countdown-container {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin: 50px auto;
+    max-width: 400px;
+}
+
+h1 {
+    color: red;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+#greetings {
+    margin-top: 20px;
+}
+
+img {
+    width: 250px;
+    height: 120px;
+}
+
+p {
+    font-size: 22px;
+    font-weight: bold;
+}
